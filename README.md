@@ -16,10 +16,9 @@ A Python script to automate the execution of JMeter `.jmx` test plans with dynam
 
 ## Setup
 1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
+   
+   git clone https://github.com/uzairfkhan/LoadTestingAutomation
+
 
 2. Install dependencies (if any are added later):
 
